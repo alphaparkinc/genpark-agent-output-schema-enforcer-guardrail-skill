@@ -1,0 +1,20 @@
+{
+  "name": "genpark-agent-output-schema-enforcer-guardrail-skill",
+  "version": "1.0.0",
+  "description": "Strict JSON schema validator with streaming partial JSON repair, missing field filling, and sanitization",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "schema-enforcer",
+    "json-guardrail",
+    "llm-guardrails",
+    "json-repair",
+    "structured-outputs",
+    "python-standard-library",
+    "agent-skills",
+    "ai-safety",
+    "output-validation",
+    "data-sanitization"
+  ]
+}
